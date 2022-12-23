@@ -6,7 +6,7 @@ import pandas as pd
 mongo_connection_string = "mongodb://dap:dap@127.0.0.1"
 
 
-### IRELAND POPULATION###
+#IRELAND POPULATION
 
 IRPP_columns = {"Age":"Age",
 "Local Authority":"Local_Authority",
